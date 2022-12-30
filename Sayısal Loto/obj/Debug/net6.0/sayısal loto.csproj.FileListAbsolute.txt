@@ -1,0 +1,45 @@
+D:\Dev\CSharp\Console\sayısal loto\bin\Debug\net6.0\sayısal loto.exe
+D:\Dev\CSharp\Console\sayısal loto\bin\Debug\net6.0\sayısal loto.deps.json
+D:\Dev\CSharp\Console\sayısal loto\bin\Debug\net6.0\sayısal loto.runtimeconfig.json
+D:\Dev\CSharp\Console\sayısal loto\bin\Debug\net6.0\sayısal loto.dll
+D:\Dev\CSharp\Console\sayısal loto\bin\Debug\net6.0\sayısal loto.pdb
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.csproj.AssemblyReference.cache
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.AssemblyInfoInputs.cache
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.AssemblyInfo.cs
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.dll
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\refint\sayısal loto.dll
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.pdb
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\sayısal loto.genruntimeconfig.cache
+D:\Dev\CSharp\Console\sayısal loto\obj\Debug\net6.0\ref\sayısal loto.dll
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\bin\Debug\net6.0\sayısal loto.exe
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\bin\Debug\net6.0\sayısal loto.deps.json
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\bin\Debug\net6.0\sayısal loto.runtimeconfig.json
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\bin\Debug\net6.0\sayısal loto.dll
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\bin\Debug\net6.0\sayısal loto.pdb
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.csproj.AssemblyReference.cache
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.AssemblyInfoInputs.cache
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.AssemblyInfo.cs
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.csproj.CoreCompileInputs.cache
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.dll
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\refint\sayısal loto.dll
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.pdb
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\sayısal loto.genruntimeconfig.cache
+D:\DERSLER\Oyun Programlama\Derste Yaptıklarımız\C#\sayısal loto\obj\Debug\net6.0\ref\sayısal loto.dll
+C:\Users\abn\Desktop\Sayısal Loto\bin\Debug\net6.0\sayısal loto.exe
+C:\Users\abn\Desktop\Sayısal Loto\bin\Debug\net6.0\sayısal loto.deps.json
+C:\Users\abn\Desktop\Sayısal Loto\bin\Debug\net6.0\sayısal loto.runtimeconfig.json
+C:\Users\abn\Desktop\Sayısal Loto\bin\Debug\net6.0\sayısal loto.dll
+C:\Users\abn\Desktop\Sayısal Loto\bin\Debug\net6.0\sayısal loto.pdb
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.csproj.AssemblyReference.cache
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.AssemblyInfoInputs.cache
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.AssemblyInfo.cs
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.csproj.CoreCompileInputs.cache
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.dll
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\refint\sayısal loto.dll
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.pdb
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\sayısal loto.genruntimeconfig.cache
+C:\Users\abn\Desktop\Sayısal Loto\obj\Debug\net6.0\ref\sayısal loto.dll
